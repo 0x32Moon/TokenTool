@@ -2,7 +2,7 @@
 #### DM me here: [@Zentoh](https://t.me/zentoh) and join our [group](https://t.me/cryptodrainers)
 
 ---
-## 🌌 Token Tool v0.1
+## 🌌 Discord Token MultiTool v0.1
 
 ![preview](https://cdn.discordapp.com/attachments/964568552298381414/976075466991628298/unknown.png)
 ---
